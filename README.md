@@ -1,15 +1,3 @@
-GETTING STARTED WITH CMS VERSION OF DELPHES
-===========================================
-
-Set up GitHub per instructions on http://cms-sw.github.io/cmssw/usercode-faq.html (and linked pages)
-Then do:
- 
-git clone https://github.com/sethzenz/Delphes.git
-cd Delphes
-./configure
-make
-
-
 Quick start with Delphes
 ========================
 
